@@ -1,4 +1,4 @@
-/* This part is done by Kishoore J */
+/* This part is done by Arman Kar */
 
 /* Sidebar container */
         .sidenav {
@@ -105,6 +105,8 @@
             pointer-events: none; /* Prevent interaction */
         }
 
+
+/*This is done by Kishoore */
 
 *{
     margin: 0;
@@ -406,6 +408,64 @@
     background-color: rgba(0, 0, 0, 0.2);
 
 }
+
+/* This part is done by Diya Shrivastava */
+
+*{
+    font-family: "Futura", sans-serif;
+    font-weight: 400;
+}
+
+article{
+    width: 100%;
+    display:block;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+article div h2{
+    text-align: center;
+}
+
+.opts_10, .opts_5{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin-left:10px;
+}
+
+figure{
+    width:265px;
+    margin:10px;
+    display:block;
+}
+
+figure img{
+    width:100%;
+}
+
+
+figure div{
+    position: relative;
+    display: inline-block;
+  }
+
+.view_btn{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e8e8e1;
+    padding: 8px 14px;
+    margin: 15px;
+    background-color: white;
+}
+
+.overlay_button{
+    opacity: 0;
+}
+
+
+
 
 
 
